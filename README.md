@@ -8,3 +8,4 @@ Apache Kafka is a distributed event store and stream-processing platform create 
 Logstash is a light-weight, open-source, server-side data processing pipeline that allows you to collect data from a variety of sources in this example input data is kafka and output data is elasticsearch
 #elasticsearch
 Elasticsearch is a search engine
+
